@@ -1,5 +1,5 @@
 # Table Practise
- <ul>
+ <ul type="square">
   <li>html</li>
   <li>css</li>
   <li>Table</li>
