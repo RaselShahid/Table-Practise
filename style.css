@@ -1,0 +1,32 @@
+*{
+    margin: 0 auto;
+}
+
+.wrapper{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 500px;
+}
+
+.season, tr, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px 10px;
+    font-size: 20px;
+}
+
+tr:nth-child(even){
+    background-color: #f7e1e1;
+}
+tr:nth-child(odd){
+    background-color: #ece4ee;
+}
+th{
+    background-color: #cc1414;
+    color: aliceblue;
+}
+.mainhead{
+    background-color: #003168;
+    font-size: 30px;
+    padding: 20px ;
+}
